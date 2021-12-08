@@ -1,0 +1,198 @@
+.menu{
+	background-color: #333333;
+}
+
+.baomenu{
+	display: flex;
+}
+
+.baomenu li{
+	float: left;
+	padding-left: 15px;
+	margin-left: 120px;
+	line-height: 55px;
+}
+
+.baomenu a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+.baomenu ul{
+	list-style: none;
+}
+
+.imgHL img{
+	padding-top: 5px;
+	width: 100%;
+}
+
+.tieude{
+	background-color: #333333;
+	display: flex;
+}
+
+.tieude h2{
+	padding-left: 270px;
+	padding-right: 30px;
+	font-size: 20px;
+	color: #ccc;
+	border-right: 1px solid white;
+}
+
+.option{
+	padding-left: 50px;
+	padding-right: 30px;
+	line-height: 50px;
+}
+
+.room,.tourism{
+	padding: 0 30px	;
+	line-height: 50px;
+}
+
+.timkiem{
+	padding-left: 60px;
+	line-height: 12px;
+}
+
+.timkiem a{
+	color: white;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.h2{
+	text-align: center;
+	color: orange;
+}
+
+.nd1, .nd2{
+	display: flex;
+}
+
+.nd1 img{
+	width: 87%;
+	padding-left: 200px;
+}
+
+.nd1_1{
+	float: right;
+	background-color: #999999;
+	margin-right: 200px;
+	margin-left: 142px;
+}
+
+.nd1_2{
+	text-align: center;
+	color: white;
+	padding: 5px 10px;
+}
+
+.book a{
+	background-color: white;
+	border-radius: 20px;
+	padding: 0 20px;
+	color: black;
+	text-decoration: none;
+}
+
+.nd2{
+	margin-top: 10px;
+}
+
+.nd2 img{
+	width: 70.3%;
+	padding-left: 200px;
+}
+
+.nd2_1{
+	float: right;
+	background-color: #999999;
+	margin-right: 200px;
+	
+}
+
+.nd2_2{
+	text-align: center;
+	color: white;
+	padding: 0 7px;
+}
+
+.col{
+	float: left;
+	width: 100%;
+}
+
+.col-fourth{
+ 	width: 25%;
+	text-align: center;
+}
+
+.tour img{
+	width: 100%;
+}
+
+.tour{
+ 	margin-left: 100px;
+ 	background-color:#999999 ;
+ 	margin-bottom: 25px;
+ 	border-radius: 3px;
+	border: 1px solid #BBBBBB;
+	box-shadow: 3px 3px #ccc;
+	color: white;
+}
+
+.tour a{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
+.footer{
+	font-size: 13px;
+	padding: 10px 0;
+	width: 100%;
+	background-color: #333333 ;
+	float: left;
+	color: white;
+}
+
+.footer1{
+	text-align: center;
+}
+
+.c{
+	margin-left: 95px;
+}
+
+.footer2 h4{
+	padding-right: 170px;
+}
+
+.footer2 .add{
+	width: 100%;
+	padding-left: 57px;
+}
+
+.footer2 .dt{
+	padding-right: 100px;
+}
+
+.footer2 .em{
+	padding-right: 37px;
+}
+
+.footer3 h4{
+	padding-right: 115px;
+}
+
+.footer4 h4{
+	padding-right: 90px;
+}
+
+.footer4 a{
+	padding-left: 20px;
+}
